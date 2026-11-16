@@ -253,7 +253,7 @@ No license has currently been specified for this repository. All rights remain w
 **Md Haisam Hoque**
 
 - GitHub: [@haisam10](https://github.com/haisam10)
-- Portfolio: [haisam10.github.io](https://haisam10.github.io/haisam_/)
+- Portfolio: [haisam10.github.io](https://haisam10.github.io/freelancer/)
 
 ---
 
